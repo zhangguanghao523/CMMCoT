@@ -1,0 +1,13 @@
+### after merge
+# model_name_or_path: /mnt/workspace/xiaoxi/model_pretrained/qwen_lab/Qwen2-VL-7B-Instruct
+# model_name_or_path: /mnt/workspace/xiaoxi/xiaoxi-all/model_logs/vllm_factory/qwen2_vl-7b/lora/qwen2_vl_lora_sft
+# model_name_or_path: /mnt/workspace/xiaoxi/xiaoxi-all/model_logs/vllm_factory/qwen2_vl-7b/lora/vocot_grounding-baseline_2024_11_12_18_53_31
+model_name_or_path: /mnt/workspace/xiaoxi/xiaoxi-all/model_logs/tmp/vllm_factory/qwen2_vl-7b/full/sft_mcot_specialtoken_2024_12_09_14_53_24
+template: qwen2_vl
+
+# ### before merge
+# model_name_or_path: /mnt/workspace/xiaoxi/model_pretrained/qwen_lab/Qwen2-VL-7B-Instruct
+# # adapter_name_or_path: /mnt/workspace/xiaoxi/xiaoxi-all/model_logs/vllm_factory/qwen2_vl-7b/lora/sft_vocot_grounding_2024_11_11_11_23_22
+# adapter_name_or_path: /mnt/workspace/xiaoxi/xiaoxi-all/model_logs/vllm_factory/qwen2_vl-7b/lora/vocot_grounding-baseline_2024_11_12_18_53_31
+# template: qwen2_vl
+# finetuning_type: lora
