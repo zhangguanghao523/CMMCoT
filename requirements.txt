@@ -1,5 +1,5 @@
 deepspeed==0.14.4
-transformers==4.47.1
+transformers>=4.47.1
 datasets==3.1.0
 accelerate==1.0.1
 peft==0.12.0
