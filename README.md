@@ -2,8 +2,11 @@
 
 [![arXiv](https://img.shields.io/badge/arXiv-2503.05255-b31b1b.svg)](https://arxiv.org/abs/2503.05255)
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](LICENSE)
+[![AAAI 2026](https://img.shields.io/badge/AAAI-2026-orange.svg)](https://aaai.org/conference/aaai/aaai-26/)
 
-This repository contains the official implementation for the paper: **CMMCoT: Enhancing Complex Multi-Image Comprehension via Multi-Modal Chain-of-Thought and Memory Augmentation**.
+This repository contains the official implementation for the paper: **CMMCoT: Enhancing Complex Multi-Image Comprehension via Multi-Modal Chain-of-Thought and Memory Augmentation**, which has been accepted at AAAI 2026 🎉🎉🎉.
+
+🌟 Star us if you think it's helpful. Your support means a lot! ⭐️
 
 ## Table of Contents
 - [📜 Abstract](#abstract)
@@ -131,13 +134,11 @@ Here is an example of the model's output format, including generated text and bo
 If you find this work useful for your research, please consider citing our paper:
 
 ```bibtex
-@misc{zhang2025cmmcot,
+@inproceedings{zhang2026cmmcot,
       title={CMMCoT: Enhancing Complex Multi-Image Comprehension via Multi-Modal Chain-of-Thought and Memory Augmentation},
       author={Guanghao Zhang and Tao Zhong and Yan Xia and Zhelun Yu and Haoyuan Li and Wanggui He and Fangxun Shu and Mushui Liu and Dong She and Yi Wang and Hao Jiang},
-      year={2025},
-      eprint={2503.05255},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
+      booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+      year={2026}
 }
 ```
 
